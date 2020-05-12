@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
     "jwt-decoder": "0.0.0",
-    "mongoose": "^5.6.1",
+    "mongoose": "^5.7.5",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1",
     "passport": "^0.4.0",
